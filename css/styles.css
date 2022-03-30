@@ -1,0 +1,91 @@
+body{
+  background-color:#D5D5D5;
+}
+.jumbotron{
+  margin-top:60px;
+}
+.navbar-nav{
+  margin-left:auto;
+}
+.main-pg-img{
+  float:right;
+  width:500px;
+  height:700px;
+  margin:0px 0px 40px 100px;
+display:inline;
+}
+.big-p{
+  font-size:20px;
+  margin-top:50px;
+  display:inline;
+}
+.aligning{
+  text-align:left;
+}
+.hrr{
+  margin-bottom:50px;
+}
+footer {
+  background-color: #555;
+  color: white;
+  padding: 15px;
+}
+.foot{
+  text-align:center;
+  font-size:150%;
+  color:black;
+}
+.contact-btn{
+  color:black;
+  float:right;
+  display:inline-block;
+}
+.second-aligning{
+  margin-top:200px;
+}
+.timer-link, .limit-link{
+  color:DarkBlue;
+}
+#contact-jumbo, .timer-head{
+  font-size:500%;
+}
+.stats{
+  float:right;
+}
+.table{
+  border:3px solid black;
+  float:right;
+}
+.limit-p{
+  float:left;
+}
+.page-header{
+  margin-top:80px;
+}
+.thumb{
+  float:right;
+  display:inline;
+  border:0;
+}
+.brr{
+  margin:50px;
+}
+#big-p{
+  margin-top:50px;
+}
+.but, .embed{
+  display:inline;
+}
+.embed{
+  float:right;
+}
+.nav{
+  font-size:150%;
+}
+.thumbnail{
+border: 0px;
+box-shadow: none;
+border-radius:0px;
+background-color: #000;
+display:inline;
+}
